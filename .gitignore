@@ -3,3 +3,6 @@ __pycache__/
 .pytest_cache/
 .vscode/
 .idea/
+# 虚拟环境
+.venv/
+venv/

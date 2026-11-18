@@ -1,0 +1,4 @@
+✅ 报表生成成功！
+ - 清洗后有效数据行数：3
+ - 月度总销售额：180
+ - 输出文件路径：C:\Users\Lenovo\Doubao\chats\2026-10-15\new-chat\github-workspace\excel-report-lab1\output\report.xlsx

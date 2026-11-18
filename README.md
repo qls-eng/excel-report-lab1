@@ -34,10 +34,13 @@ excel-report-lab1/
 │   └── test_excel.py           # pytest 测试用例
 └── docs/
     ├── 需求澄清_考题一.md
+    ├── 实验报告.md
     ├── ai对话记录.md
     ├── 复盘.md
     └── images/
-        └── test_excel_result.png   # 测试通过截图
+        ├── run_output.png          # 脚本真实运行输出
+        ├── pytest_output.png       # pytest 真实运行输出
+        └── test_excel_result.png   # 早期 PyCharm 环境测试通过截图
 ```
 
 ## 环境要求
@@ -76,5 +79,6 @@ pytest
 ## 设计说明与过程文档
 
 - [需求澄清](docs/需求澄清_考题一.md)
+- [实验报告](docs/实验报告.md)
 - [AI 协作对话记录](docs/ai对话记录.md)
 - [复盘](docs/复盘.md)

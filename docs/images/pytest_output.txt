@@ -1,0 +1,13 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.18, pytest-9.2.0, pluggy-1.7.0 -- C:\Users\Lenovo\Doubao\chats\2026-10-15\new-chat\github-workspace\excel-report-lab1\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\Lenovo\Doubao\chats\2026-10-15\new-chat\github-workspace\excel-report-lab1
+collecting ... collected 5 items
+
+tests/test_excel.py::test_normal_flow PASSED                             [ 20%]
+tests/test_excel.py::test_clean_invalid_quantity PASSED                  [ 40%]
+tests/test_excel.py::test_clean_missing_fields PASSED                    [ 60%]
+tests/test_excel.py::test_clean_duplicates PASSED                        [ 80%]
+tests/test_excel.py::test_empty_dataframe PASSED                         [100%]
+
+============================== 5 passed in 1.75s ==============================
